@@ -6,3 +6,4 @@
 + 2.注视xml数据库连接的JDBC 
 + 3.排除 jdbc 的自动装配机制即可。这些从今天下午17.30搞到了20.30.亏我暑假上了黑马的JavaWeb，还学过几节仿牛客社区。太菜了啊！！！
 
+[老实上课，好好写作业，就是在混！？](https://www.bilibili.com/video/BV18D4y1k7tu/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02f73cfd8ba72bd09e4f57d40aacb9dd)
